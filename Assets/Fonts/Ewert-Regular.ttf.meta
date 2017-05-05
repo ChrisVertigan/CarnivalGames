@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 99d4433a9658a134187bf7742038488e
+timeCreated: 1489574718
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 128
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Ewert
+  fontNames:
+  - Ewert
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

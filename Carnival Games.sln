@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Carnival Games", "Carnival Games.csproj", "{B350126A-6C14-0689-681C-099D19F39D5B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Carnival Games.Editor", "Carnival Games.Editor.csproj", "{880AA271-26F4-BE2B-1C8F-954C645355BC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B350126A-6C14-0689-681C-099D19F39D5B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B350126A-6C14-0689-681C-099D19F39D5B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B350126A-6C14-0689-681C-099D19F39D5B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B350126A-6C14-0689-681C-099D19F39D5B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{880AA271-26F4-BE2B-1C8F-954C645355BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{880AA271-26F4-BE2B-1C8F-954C645355BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{880AA271-26F4-BE2B-1C8F-954C645355BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{880AA271-26F4-BE2B-1C8F-954C645355BC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
